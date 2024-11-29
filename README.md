@@ -11,12 +11,15 @@ You can click the Preview link to take a look at your changes.
     <!--- Uncomment if you want to include LinkedIn
     <a href="https://www.linkedin.com/in/carl-jerome-mariño-1b7ba2249/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a> 
+    </a>
     --->
     <a href="https://instagram.com/luthredean" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
+
+<!-- Add a clear separation -->
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,6 +36,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
     </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lutherdev&show_icons=true&locale=en&layout=compact" alt="lutherdev" /></p>
