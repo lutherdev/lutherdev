@@ -37,6 +37,9 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=lutherdev&show_icons=true&locale=en" alt="lutherdev" />
+</p>
 
 
 
@@ -44,7 +47,4 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lutherdev&show_icons=true&locale=en&layout=compact" alt="lutherdev" />
 </p>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=lutherdev&show_icons=true&locale=en" alt="lutherdev" />
-</p>
 
