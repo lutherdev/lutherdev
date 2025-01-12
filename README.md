@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lutherdev
-- 🌱 I’m currently learning Java, SQL, CCNA 
+- 🌱 I’m currently learning Java, SQL & PL/SQL, Python, Javascript 
 - 👀 I’m interested in you.
 
 <!---
