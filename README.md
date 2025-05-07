@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lutherdev
-- 🌱 I’m currently learning Java, SQL & PL/SQL, Python, Javascript 
+- 🌱 I’m currently learning PHP, Kotlin, Git
+- Has experience in C++, Java, Javascript, SQL & PL/SQL, Python
 - 👀 I’m interested in you.
 
 <!---
@@ -9,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- Uncomment if you want to include LinkedIn -->
-    <!--
-    <a href="https://www.linkedin.com/in/carl-jerome-mariño-1b7ba2249/" target="blank">
+    <!-
+    <a href="https://www.linkedin.com/in/luther-dean/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    -->
+    -
     <a href="https://instagram.com/luthredean" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
