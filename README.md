@@ -1,7 +1,37 @@
-- 👋 Hi, I’m @lutherdev
-- 🌱 I’m currently learning PHP, Kotlin, Git
-- Has experience in C++, Java, Javascript, SQL & PL/SQL, Python
-- 👀 I’m interested in you.
+<a name="readme-top"></a>
+ 
+<br />
+<div align="center">
+ 
+  <h1 align="center"> TURD DEV </h1>
+  </a>
+
+
+  <p align="center">
+   that guy
+    <br />
+    </p> </div>
+
+<details>
+  <summary>WHO AM I?</summary>
+
+  ### <a id="about-the-project"></a>LUTHER DEAN
+  - 👋 Hi, I’m @lutherdev
+  - **Name:** Luther Dean Sambeli
+  - **Born in:** Philippines  
+  - **Educational Status:** 2nd Year Student at FEU Institute of Technology  
+  - **Specialization:** Information Technology - Web and Mobile Application
+  
+</details>
+
+  - 🌱 I’m currently learning PHP, Kotlin, Git
+  
+  - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python
+    
+  - 👀 I’m interested in you.
+
+
+
 
 <!---
 lutherdev/lutherdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,5 +77,51 @@ You can click the Preview link to take a look at your changes.
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lutherdev&show_icons=true&locale=en&layout=compact" alt="lutherdev" />
 </p>
+
+
+
+
+
+<!--
+Here are the programs I am currently working on 💚
+
+* [![C++][cpp.com]][cpp-url]
+* [![Python][python.com]][python-url]
+* [![MySQL][Mysql.com]][Mysql-url]
+* [![Github][Github.com]][Github-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
+-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## pang bili ng bahay
+
+<a href="https://buymeacoffee.com/turd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+[cpp.com]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[cpp-url]: https://www.cplusplus.com
+
+[python.com]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.python.org
+
+[MySQL.com]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com
+
+[Github.com]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[Github-url]: https://github.com
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+
+[TailwindCSS.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com
+
+
+**My Time 🦉** 
+
+```text
+🌅 Morning                                    ███████░░░░░░░░░░░░░░░░░   25 % 
+☀️ Afternoon                                  ███████░░░░░░░░░░░░░░░░░░   25 % 
+🌃 Evening                                    ██████████████░░░░░░░░░░░   50 %
 
 
