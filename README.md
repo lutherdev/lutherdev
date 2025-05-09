@@ -116,12 +116,12 @@ Here are the programs I am currently working on 💚
 [TailwindCSS.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [TailwindCSS-url]: https://tailwindcss.com
 
-
+<!--
 **My Time 🦉** 
 
 ```text
 🌅 Morning                                    ███████░░░░░░░░░░░░░░░░░   25 % 
 ☀️ Afternoon                                  ███████░░░░░░░░░░░░░░░░░░   25 % 
 🌃 Evening                                    ██████████████░░░░░░░░░░░   50 %
-
+-->
 
