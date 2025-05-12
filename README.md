@@ -31,12 +31,23 @@
   - 👀 I’m interested in you.
 
 
+```
 
+░░░░░░░░░░░█▀▀░░█░░░░░░
+░░░░░░▄▀▀▀▀░░░░░█▄▄░░░░
+░░░░░░█░█░░░░░░░░░░▐░░░
+░░░░░░▐▐░░░░░░░░░▄░▐░░░
+░░░░░░█░░░░░░░░▄▀▀░▐░░░
+░░░░▄▀░░░░░░░░▐░▄▄▀░░░░
+░░▄▀░░░▐░░░░░█▄▀░▐░░░░░
+░░█░░░▐░░░░░░░░▄░█░░░░░
+░░░█▄░░▀▄░░░░▄▀▐░█░░░░░
+░░░█▐▀▀▀░▀▀▀▀░░▐░█░░░░░
+░░▐█▐▄░░▀░░░░░░▐░█▄▄░░░
+░░░▀▀▄░░░░░░░░▄▐▄▄▄▀░░░
+░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<!---
-lutherdev/lutherdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- Uncomment if you want to include LinkedIn -->
@@ -68,6 +79,8 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
+
+<!--
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=lutherdev&show_icons=true&locale=en" alt="lutherdev" />
 </p>
@@ -77,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lutherdev&show_icons=true&locale=en&layout=compact" alt="lutherdev" />
 </p>
-
+-->
 
 
 
