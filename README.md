@@ -94,8 +94,6 @@ Here are the programs I am currently working on 💚
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 -->
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## pang bili ng walang kwentang bagay
 
 <a href="https://buymeacoffee.com/turd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
