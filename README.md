@@ -17,7 +17,7 @@
 
   ### <a id="about-the-project"></a>LUTHER DEAN
   - 👋 Hi, I’m @lutherdev
-  - **Name:** Luther Dean Sambeli
+  - **Name:** Luther Dean
   - **Born in:** Philippines  
   - **Educational Status:** 2nd Year Student at FEU Institute of Technology  
   - **Specialization:** Information Technology - Web and Mobile Application
