@@ -71,7 +71,7 @@
 ## My progress at roadmap.sh
 
 <h3 align="center">
-  <img src="https://roadmap.sh/card/wide/68356b2acf080f2a322560f1?variant=dark" alt="roadmap.sh" />
+  <img src="https://roadmap.sh/card/wide/68356b2acf080f2a322560f1?variant=dark&roadmaps=python%2Csql%2Cphp%2Cjavascript" alt="roadmap.sh" />
   <!-- <img src="https://api.roadmap.sh/v1-badge/wide/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=aspnet-core%2Cdatastructures-and-algorithms%2Cbackend%2Crust" alt="roadmap.sh" /> -->
 </h3>
 
