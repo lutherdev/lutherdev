@@ -1,7 +1,7 @@
-
+<img align="right" src="https://komarev.com/ghpvc/?username=lutherdeva&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;">
 <div align="center">
   <h1 align="center"> TURD DEV 
- <img align="right" src="https://komarev.com/ghpvc/?username=lutherdeva&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;"></h1>
+ </h1>
   <p align="center">that guy<br/></p> 
 </div>
 
