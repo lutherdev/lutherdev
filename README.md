@@ -43,14 +43,12 @@
 <h3 align="left">Connect with me:</h3>
 <h2 align="center">
   <a href="https://www.linkedin.com/in/luther-dean">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the badge&logo=linkedin&logoColor=white)" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,github,gmail,instagram,linkedin,twitter,vscode" />
   </a>
 </h2>
-
-## Technologies
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
