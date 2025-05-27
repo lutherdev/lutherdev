@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" src="https://komarev.com/ghpvc/?username=lutherdeva&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;">
+<img align="right" src="https://komarev.com/ghpvc/?username=lutherdeva&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;"><br><br>
 </div>
 <div align="center">
   <h1 align="center"> TURD DEV 
