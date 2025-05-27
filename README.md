@@ -1,8 +1,7 @@
 
 <div align="center">
-  <h1 align="center"> TURD DEV </h1>
- <img align="right" src="https://komarev.com/ghpvc/?username=lutherdeva&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;">
-  </a>
+  <h1 align="center"> TURD DEV 
+ <img align="right" src="https://komarev.com/ghpvc/?username=lutherdeva&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;"></h1>
   <p align="center">that guy<br/></p> 
 </div>
 
@@ -51,8 +50,8 @@
   </a>
 </h2>
 
-<br> 
-## Technologies used
+## Technologies
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
