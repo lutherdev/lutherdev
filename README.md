@@ -10,20 +10,15 @@
 ## About Me
 <details>
   <summary>WHO AM I?</summary>
-
-  ### <a id="about-the-project"></a>LUTHER DEAN
   - 👋 Hi, I’m @lutherdev
   - **Name:** Luther Dean
   - **Born in:** Philippines  
   - **Educational Status:** 2nd Year Student at FEU Institute of Technology  
   - **Specialization:** Information Technology - Web and Mobile Application
-  
 </details>
 
   - 🌱 I’m currently learning PHP, Kotlin, Git
-  
   - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python
-    
   - 👀 I’m interested in you.
 
 
