@@ -12,7 +12,7 @@
   <summary>WHO AM I?</summary>
   - 👋 Hi, I’m @lutherdev
   - **Name:** Luther Dean
-  - **Born in:** Philippines  
+  - **Origin:** Philippines  
   - **Educational Status:** 2nd Year Student at FEU Institute of Technology  
   - **Specialization:** Information Technology - Web and Mobile Application
 </details>
@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/luther-dean">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </a>
-<a href="https://www.linkedin.com/in/luther-dean">
+<a href="https://www.instagram.com/luther.jpeg/">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/luther-dean">
