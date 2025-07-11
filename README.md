@@ -42,13 +42,13 @@
   <a href="https://www.linkedin.com/in/luther-dean">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </a>
-<a href="https://www.instagram.com/luther.jpeg/">
+<a href="mailto:devturd@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/luther-dean">
+<a href="https://www.instagram.com/luther.jpeg/">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/luther-dean">
+<a href="https://discord.com/users/490418433016594432">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
