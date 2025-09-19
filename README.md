@@ -13,13 +13,13 @@
   - 👋 Hi, I’m @lutherdev
   - **Name:** Luther Dean
   - **Origin:** Philippines  
-  - **Educational Status:** 2nd Year Student at FEU Institute of Technology  
+  - **Educational Status:** 3rd Year Student at FEU Institute of Technology  
   - **Specialization:** Information Technology - Web and Mobile Application
 </details>
 
-  - 🌱 I’m currently learning PHP, Kotlin, Git
-  - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python
-  - 👀 I’m interested in you.
+  - 🌱 I’m currently learning CodeIgniter, Swift, React JS, Node JS, Tailwind, GSAP
+  - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python, PHP, Kotlin
+ <!-- - 👀 I’m interested in you. -->
 
 
 ```
