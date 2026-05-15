@@ -17,7 +17,7 @@
   - **Specialization:** Information Technology - Web and Mobile Application
 </details>
 
-  - 🌱 I’m currently learning React JS, Vite, Node JS, Tailwind, GSAP
+  - 🌱 I’m currently learning React JS, Vite, Node JS, Express JS, Tailwind, GSAP, MapBox, PostrgreSQL/Supabase
   - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python, PHP, Kotlin, CodeIgniter, Swift
  <!-- - 👀 I’m interested in you. -->
 
