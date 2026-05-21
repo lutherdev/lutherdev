@@ -10,16 +10,15 @@
 ## About Me
 <details>
   <summary>WHO AM I?</summary>
-  - 👋 Hi, I’m @lutherdev
+  - Hi, I’m @lutherdev
   - **Name:** Luther Dean
   - **Origin:** Philippines  
   - **Educational Status:** 3rd Year Student at FEU Institute of Technology  
   - **Specialization:** Information Technology - Web and Mobile Application
 </details>
 
-  - 🌱 I’m currently learning React JS, Vite, Node JS, Express JS, Tailwind, GSAP, MapBox, PostrgreSQL/Supabase
+  - I’m currently learning React JS, Vite, Node JS, Express JS, Tailwind, GSAP, MapBox, PostrgreSQL/Supabase
   - Has experience in C++, Java, Javascript, SQL & PL/SQL, Python, PHP, Kotlin, CodeIgniter, Swift
- <!-- - 👀 I’m interested in you. -->
 
 <h3 align="left">Connect with me:</h3>
 <h2 align="center">
